@@ -44,8 +44,8 @@ buttonOpen.onclick = ()=> {
         })
 }
 
-buttonInstall.onclick = async ()=> {
-    vars['beforeinstallprompt'].prompt()
-}
+// buttonInstall.onclick = async ()=> {
+//     vars['beforeinstallprompt'].prompt()
+// }
 
 })()
